@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JenuGumpu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/forest</item>
+        <item name="colorPrimaryDark">@color/forest_dark</item>
+        <item name="colorAccent">@color/honey</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+</resources>

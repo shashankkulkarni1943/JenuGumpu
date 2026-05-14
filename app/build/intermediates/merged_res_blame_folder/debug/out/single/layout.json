@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/fragment_collective.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_collective.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/fragment_tracker.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_tracker.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/chip_floral.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/chip_floral.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/item_member.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/item_member.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/fragment_price.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_price.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/fragment_harvest.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_harvest.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/item_tracker.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/item_tracker.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/item_harvest.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/item_harvest.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-33:/layout/fragment_grading.xml",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_grading.xml"
+    }
+]

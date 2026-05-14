@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jenugumpu.app-mergeDebugResources-32:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shashank.exe\\.gradle\\caches\\9.0.0\\transforms\\725365475282e5f1622dd4a3e3795930\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

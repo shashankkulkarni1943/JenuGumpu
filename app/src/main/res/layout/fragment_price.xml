@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PRICE MONITOR"
+            android:textSize="11sp"
+            android:textColor="@color/muted"
+            android:letterSpacing="0.08"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- Price card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="2dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <Spinner
+                    android:id="@+id/spinner_floral"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="14dp"/>
+
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical"
+                        android:background="@drawable/bg_price_green" android:padding="10dp"
+                        android:layout_marginEnd="6dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Retail" android:textSize="11sp" android:textColor="@color/forest"/>
+                        <TextView android:id="@+id/tv_retail_price"
+                            android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="₹480/kg" android:textSize="18sp" android:textStyle="bold"
+                            android:textColor="@color/forest"/>
+                    </LinearLayout>
+
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical"
+                        android:background="@drawable/bg_price_honey" android:padding="10dp"
+                        android:layout_marginEnd="6dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Wholesale" android:textSize="11sp" android:textColor="@color/honey"/>
+                        <TextView android:id="@+id/tv_wholesale_price"
+                            android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="₹300/kg" android:textSize="18sp" android:textStyle="bold"
+                            android:textColor="@color/honey"/>
+                    </LinearLayout>
+
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical"
+                        android:background="@drawable/bg_price_red" android:padding="10dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Middleman" android:textSize="11sp" android:textColor="@color/red_dark"/>
+                        <TextView android:id="@+id/tv_middleman_price"
+                            android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="₹120/kg" android:textSize="18sp" android:textStyle="bold"
+                            android:textColor="@color/red_dark"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Profit Calculator -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PROFIT CALCULATOR"
+            android:textSize="11sp"
+            android:textColor="@color/muted"
+            android:letterSpacing="0.08"
+            android:layout_marginBottom="12dp"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="2dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Quantity (kg)"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_marginBottom="10dp">
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/et_calc_qty"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="numberDecimal"
+                        android:text="18"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Filtering + Packaging Cost (₹/kg)"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_marginBottom="14dp">
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/et_calc_cost"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="numberDecimal"
+                        android:text="40"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="horizontal" android:gravity="center_vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="You'd lose" android:textSize="11sp" android:textColor="@color/muted"/>
+                        <TextView android:id="@+id/tv_loss_result"
+                            android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="₹1.4K" android:textSize="22sp" android:textStyle="bold"
+                            android:textColor="@color/red_dark"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="via middleman" android:textSize="11sp" android:textColor="@color/muted"/>
+                    </LinearLayout>
+
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="→" android:textSize="24sp" android:textColor="@color/muted"
+                        android:paddingHorizontal="8dp"/>
+
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical"
+                        android:gravity="end">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="You gain" android:textSize="11sp" android:textColor="@color/muted"/>
+                        <TextView android:id="@+id/tv_profit_result"
+                            android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="₹7.9K" android:textSize="22sp" android:textStyle="bold"
+                            android:textColor="@color/forest"/>
+                        <TextView android:id="@+id/tv_gain_result"
+                            android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="with collective" android:textSize="11sp" android:textColor="@color/forest"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>

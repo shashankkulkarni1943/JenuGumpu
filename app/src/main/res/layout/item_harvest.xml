@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="14dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="6dp">
+
+            <TextView
+                android:id="@+id/tv_batch_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BATCH-001"
+                android:textSize="11sp"
+                android:textColor="@color/forest"
+                android:background="@drawable/bg_chip_green"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="3dp"/>
+
+            <View android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/tv_grade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Grade A"
+                android:textSize="11sp"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="3dp"
+                android:background="@drawable/bg_chip_rounded"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_harvest_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Coffee Blossom Honey"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:layout_marginBottom="4dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="8dp">
+            <TextView
+                android:id="@+id/tv_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="📍 Chikmagalur"
+                android:textSize="12sp"
+                android:textColor="@color/muted"
+                android:layout_marginEnd="12dp"/>
+            <TextView
+                android:id="@+id/tv_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="📅 28 Apr 2026"
+                android:textSize="12sp"
+                android:textColor="@color/muted"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+            <TextView
+                android:id="@+id/tv_qty"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="18 kg"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/honey"
+                android:layout_marginEnd="8dp"/>
+            <TextView
+                android:id="@+id/tv_moisture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Moisture: 17%"
+                android:textSize="12sp"
+                android:textColor="@color/muted"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

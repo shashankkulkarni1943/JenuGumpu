@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಜೇನು ಗುಂಪು</string>
+    <string name="nav_harvest">Harvest</string>
+    <string name="nav_grading">Grading</string>
+    <string name="nav_price">Price</string>
+    <string name="nav_collective">Collective</string>
+    <string name="nav_tracker">Tracker</string>
+
+    <!-- Login -->
+    <string name="login_welcome">JENU GUMPU</string>
+    <string name="login_subtitle">Bee-keeping &amp; Honey Collective</string>
+    <string name="hint_username">Email or Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_to_collective">New to the collective? </string>
+    <string name="register">Register</string>
+</resources>

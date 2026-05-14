@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_price_green.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_price_green.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_ic_collective.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/ic_collective.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_price_honey.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_price_honey.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_fragment_collective.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_collective.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_chip_green.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_chip_green.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/color_nav_selector.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/color/nav_selector.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_ic_price.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/ic_price.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_chip_dark.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_chip_dark.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/color_chip_text_selector.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/color/chip_text_selector.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_item_member.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/item_member.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_price_red.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_price_red.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_color_amber.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_color_amber.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_color_golden.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_color_golden.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_fragment_grading.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_grading.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_fragment_price.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_price.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_chip_rounded.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_chip_rounded.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_fragment_harvest.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_harvest.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_fragment_tracker.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/fragment_tracker.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_chip_floral.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/chip_floral.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_item_tracker.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/item_tracker.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_ic_tracker.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/ic_tracker.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_ic_harvest.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/ic_harvest.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_color_dark.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_color_dark.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_ic_grading.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/ic_grading.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_avatar.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_avatar.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/layout_item_harvest.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/layout/item_harvest.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_bg_chip_floral.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/bg_chip_floral.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.jenugumpu.app-main-36:/drawable/ic_launcher_foreground.xml"
+    }
+]

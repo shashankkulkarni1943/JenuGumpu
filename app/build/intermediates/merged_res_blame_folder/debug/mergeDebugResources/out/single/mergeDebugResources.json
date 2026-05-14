@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_fragment_collective.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_collective.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_avatar.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_avatar.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-debug-36:/layout_activity_login.xml.flat",
+        "source": "com.jenugumpu.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_item_tracker.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\item_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\color_chip_text_selector.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\color\\chip_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_chip_dark.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_chip_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_ic_price.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\ic_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_ic_harvest.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\ic_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_chip_floral.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_chip_floral.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_chip_floral.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\chip_floral.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_fragment_grading.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_grading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_color_dark.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_color_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_price_honey.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_price_honey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_fragment_tracker.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\color_nav_selector.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\color\\nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_fragment_harvest.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_fragment_price.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_price_red.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_price_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_price_green.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_price_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_item_harvest.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\item_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_chip_rounded.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_chip_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_ic_grading.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\ic_grading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_ic_collective.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\ic_collective.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_ic_tracker.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\ic_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_color_amber.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_color_amber.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\layout_item_member.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\item_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_color_golden.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_color_golden.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\drawable_bg_chip_green.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\drawable\\bg_chip_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

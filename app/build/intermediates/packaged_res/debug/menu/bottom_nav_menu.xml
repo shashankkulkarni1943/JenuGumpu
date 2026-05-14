@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_harvest"
+        android:icon="@drawable/ic_harvest"
+        android:title="Harvest"/>
+    <item
+        android:id="@+id/nav_grading"
+        android:icon="@drawable/ic_grading"
+        android:title="Grading"/>
+    <item
+        android:id="@+id/nav_price"
+        android:icon="@drawable/ic_price"
+        android:title="Price"/>
+    <item
+        android:id="@+id/nav_collective"
+        android:icon="@drawable/ic_collective"
+        android:title="Collective"/>
+    <item
+        android:id="@+id/nav_tracker"
+        android:icon="@drawable/ic_tracker"
+        android:title="Tracker"/>
+</menu>

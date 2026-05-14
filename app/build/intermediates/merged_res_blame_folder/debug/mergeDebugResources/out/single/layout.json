@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\item_harvest.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\item_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\fragment_price.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\fragment_tracker.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\item_tracker.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\item_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\chip_floral.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\chip_floral.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\fragment_collective.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_collective.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\fragment_grading.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_grading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\item_member.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\item_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-mergeDebugResources-35:\\layout\\fragment_harvest.xml",
+        "source": "C:\\Users\\Shashank.exe\\.gradle\\daemon\\9.0.0\\com.jenugumpu.app-main-38:\\layout\\fragment_harvest.xml"
+    },
+    {
+        "merged": "com.jenugumpu.app-mergeDebugResources-35:/layout/activity_login.xml",
+        "source": "com.jenugumpu.app-main-38:/layout/activity_login.xml"
+    }
+]

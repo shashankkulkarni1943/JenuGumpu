@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="honey">#BA7517</color>
+    <color name="honey_mid">#EF9F27</color>
+    <color name="honey_light">#FAC775</color>
+    <color name="honey_bg">#FAEEDA</color>
+
+    <color name="forest">#3B6D11</color>
+    <color name="forest_mid">#639922</color>
+    <color name="forest_light">#EAF3DE</color>
+    <color name="forest_dark">#1a2e0a</color>
+    <color name="forest_accent">#97C459</color>
+
+    <color name="red_dark">#A32D2D</color>
+    <color name="red_bg">#FCEBEB</color>
+
+    <!-- Grades -->
+    <color name="grade_a_bg">#EAF3DE</color>
+    <color name="grade_a_fg">#3B6D11</color>
+    <color name="grade_b_bg">#FAEEDA</color>
+    <color name="grade_b_fg">#633806</color>
+    <color name="grade_c_bg">#FCEBEB</color>
+    <color name="grade_c_fg">#791F1F</color>
+
+    <!-- Neutral -->
+    <color name="background">#F5F4F0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="muted">#888780</color>
+    <color name="text_primary">#2C2C2A</color>
+    <color name="text_secondary">#555553</color>
+
+    <!-- Nav -->
+    <color name="nav_active">#3B6D11</color>
+    <color name="nav_inactive">#888780</color>
+
+    <!-- Primary for theme -->
+    <color name="primaryColor">#3B6D11</color>
+    <color name="primaryDarkColor">#1a2e0a</color>
+    <color name="secondaryColor">#BA7517</color>
+</resources>

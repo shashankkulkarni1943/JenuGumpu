@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="14dp">
+
+        <TextView
+            android:id="@+id/tv_tracker_batch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BATCH-001"
+            android:textSize="11sp"
+            android:textColor="@color/forest"
+            android:background="@drawable/bg_chip_green"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="3dp"
+            android:layout_marginBottom="6dp"/>
+
+        <TextView
+            android:id="@+id/tv_tracker_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Coffee Blossom — Chikmagalur"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:layout_marginBottom="4dp"/>
+
+        <TextView
+            android:id="@+id/tv_tracker_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="18 kg  |  Moisture: 17%  |  28 Apr 2026"
+            android:textSize="12sp"
+            android:textColor="@color/muted"
+            android:layout_marginBottom="10dp"/>
+
+        <!-- Status checkboxes -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_filtered"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Filtered"
+                android:textSize="12sp"
+                android:buttonTint="@color/forest"
+                android:layout_marginEnd="12dp"/>
+
+            <CheckBox
+                android:id="@+id/cb_labelled"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Labelled"
+                android:textSize="12sp"
+                android:buttonTint="@color/honey"
+                android:layout_marginEnd="12dp"/>
+
+            <CheckBox
+                android:id="@+id/cb_listed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Listed"
+                android:textSize="12sp"
+                android:buttonTint="@color/forest_mid"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
